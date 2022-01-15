@@ -1,5 +1,5 @@
 # 🚀🚀🚀🚀🚀
-## 🐷 BankistApp
+## 💰 BankistApp
 
 
 user1 -> username: js  password: 1111 <br>
